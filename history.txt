@@ -1,0 +1,88 @@
+    1  git config user.name
+    2  git config user.email
+    3  git init
+    4  clear
+    5  git status
+    6  ls
+    7  ls -a
+    8  git init
+    9  ls -a
+   10  git status
+   11  touch README.md
+   12  ls -a
+   13  git status
+   14  git log
+   15  git add
+   16  git status
+   17  git add .
+   18  git status
+   19  git reset
+   20  git status
+   21  git add .
+   22  git status
+   23  git commit -m "initial commit"
+   24  git log
+   25  q
+   26  nano README.md
+   27  git status
+   28  git stats
+   29  git commit -m "second commit"
+   30  git add .
+   31  cat README.md
+   32  git status
+   33  git commit -m "second commit"
+   34  nano README.md
+   35  cat README.md
+   36  git status
+   37  git add .
+   38  git status
+   39  git commit -m "third commit"
+   40  git log
+   41  q
+   42  git checkout commit 1f79395ac51b16b3e4648c39f2e3411cbac6464e
+   43  git checkout 1f79395ac51b16b3e4648c39f2e3411cbac6464e
+   44  cat README.md
+   45  git checkout master
+   46  cat README.md
+   47  git checkout
+   48  git status
+   49  clear
+   50  git branch
+   51  git switch -c milkshake-flavours
+   52  git branch
+   53  git branch
+   54  git switch -
+   55  git switch -
+   56  nano milkshakes.md
+   57  git status
+   58  git add
+   59  git add .
+   60  git status
+   61  git commit -m "added initial flavours"
+   62  git log
+   63  git checkout master
+   64  git switch -
+   65  git switch -
+   66  git checkout master
+   67  git log
+   68  git branch
+   69  git switch -
+   70  git switch -
+   71  git branch
+   72  git log
+   73  git switch -
+   74  git status
+   75  git switch - milkshake-flavours
+   76  cat milkshakes.md
+   77  git switch -
+   78  nano milkshakes.md
+   79  git switch -
+   80  git switch -c milkshake-flavours
+   81  git switch -c 
+   82  git switch 
+   83  git switch -
+   84  git switch - milkshake-flavours
+   85  git switch -c history
+   86  git log
+   87  git branch
+   88  history > history.txt
